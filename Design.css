@@ -1,0 +1,21 @@
+
+#HomeLinks {
+        		text-align: center;
+        	}
+.Heading {
+        		text-align: center;
+        	}
+#table1 {
+	width: 200px;
+	border: 2x;
+	border-color: red;
+	border-collapse: collapse;
+
+}
+td, th {
+	border: 2px solid black;
+	text-align: center;
+}
+tr:nth-child(odd){
+	background-color: #dddddd;
+}
